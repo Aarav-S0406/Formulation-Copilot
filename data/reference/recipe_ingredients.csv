@@ -9,3 +9,33 @@ patty_001,Potato Starch,40
 patty_001,Spice-Flavor Blend,40
 patty_001,Methylcellulose,15
 patty_001,Gond Gum,5
+patty_002_legume_forward,Rice Bean Flour,250
+patty_002_legume_forward,Moth Bean Flour,200
+patty_002_legume_forward,Red Lentil Flour,200
+patty_002_legume_forward,Wheat Gluten,100
+patty_002_legume_forward,Textured Soy Protein,100
+patty_002_legume_forward,Chickpea Flour,70
+patty_002_legume_forward,Potato Starch,35
+patty_002_legume_forward,Spice-Flavor Blend,30
+patty_002_legume_forward,Methylcellulose,10
+patty_002_legume_forward,Gond Gum,5
+patty_003_cost_candidate,Rice Bean Flour,170
+patty_003_cost_candidate,Moth Bean Flour,160
+patty_003_cost_candidate,Red Lentil Flour,120
+patty_003_cost_candidate,Wheat Gluten,150
+patty_003_cost_candidate,Textured Soy Protein,100
+patty_003_cost_candidate,Chickpea Flour,150
+patty_003_cost_candidate,Potato Starch,90
+patty_003_cost_candidate,Spice-Flavor Blend,40
+patty_003_cost_candidate,Methylcellulose,15
+patty_003_cost_candidate,Gond Gum,5
+patty_004_high_protein,Rice Bean Flour,80
+patty_004_high_protein,Moth Bean Flour,80
+patty_004_high_protein,Red Lentil Flour,80
+patty_004_high_protein,Wheat Gluten,340
+patty_004_high_protein,Textured Soy Protein,220
+patty_004_high_protein,Chickpea Flour,100
+patty_004_high_protein,Potato Starch,40
+patty_004_high_protein,Spice-Flavor Blend,40
+patty_004_high_protein,Methylcellulose,15
+patty_004_high_protein,Gond Gum,5
