@@ -1,0 +1,15 @@
+{
+  "target": "tannin_reduction_pct",
+  "n_rows": 44,
+  "n_source_papers": 8,
+  "n_train": 35,
+  "n_test": 9,
+  "held_out_source_papers": [
+    "10.1007/BF01093890",
+    "10.51791/njap.v38i2.2795"
+  ],
+  "model_mae": 10.89313837154615,
+  "mean_baseline_mae": 25.496761904761904,
+  "model_r2": 0.6528634581854624,
+  "warning": "Exploratory metrics only; small literature datasets can be unstable."
+}

@@ -1,0 +1,45 @@
+crop,variety,processing_method,pretreatment,soaking_time_h,germination_time_h,processing_temperature_c,light_condition,cooking_method,cooking_time_min,sample_form,tannin_reduction_pct,phytate_reduction_pct,trypsin_inhibitor_reduction_pct,protein_change_pct,source_id,measurement_method,measurement_unit,basis,replicates,evidence_level
+Horse gram,Local,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,,,0.0,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,Local,Soaking,,6.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,11.9,,,6.64,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,Local,Soaking,,12.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,25.6,,,16.59,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,Local,Soaking,,18.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,35.41,,,27.3,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,Local,Germination,Soaked,18.0,24.0,25.0,Dark,Not applicable,0.0,Whole seed,47.72,,,28.76,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,Local,Germination,Soaked,18.0,48.0,25.0,Light,Not applicable,0.0,Whole seed,61.55,,,34.73,PMC5686003,Vanillin-HCl,mg/100g,Dry-weight,3,Measured result
+Horse gram,HPK-4,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,0.0,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Horse gram,HPK-4,Dehulling,Dehulled,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Dehulled seed,90.92,78.02,5.5,16.48,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Horse gram,HPK-4,Germination,Soaked,12.0,48.0,25.0,Dark,Not applicable,0.0,Whole seed,47.33,38.12,26.79,2.9,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Horse gram,AK-21,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,0.0,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Horse gram,AK-21,Dehulling,Dehulled,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Dehulled seed,91.5,77.5,5.5,15.9,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Horse gram,AK-21,Germination,Soaked,12.0,48.0,25.0,Dark,Not applicable,0.0,Whole seed,48.1,37.9,26.5,2.8,PMC4711462,Vanillin-HCl,mg TAE/100g,Dry-weight,3,Measured result
+Moth bean,Local,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,,,0.0,10.1007/BF01093890,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,Local,Soaking,,12.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,15.0,,,5.0,10.1007/BF01093890,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,Local,Germination,Soaked,12.0,24.0,25.0,Not applicable,Not applicable,0.0,Whole seed,32.0,,,8.0,10.1007/BF01093890,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,Local,Germination,Soaked,12.0,48.0,25.0,Not applicable,Not applicable,0.0,Whole seed,58.0,,,12.0,10.1007/BF01093890,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,Local,Cooking,Soaked,12.0,0.0,100.0,Not applicable,Boiling,45.0,Whole seed,78.0,,,-5.0,10.1007/BF01093890,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,FMM-96,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,FMM-96,Dehulling,Dehulled,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Dehulled seed,85.0,45.0,12.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,FMM-96,Germination,Soaked,12.0,48.0,25.0,Not applicable,Not applicable,0.0,Whole seed,50.0,48.0,30.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,RMO-40,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,RMO-40,Dehulling,Dehulled,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Dehulled seed,84.0,47.0,10.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Moth bean,RMO-40,Germination,Soaked,12.0,48.0,25.0,Not applicable,Not applicable,0.0,Whole seed,52.0,50.0,32.0,,10.1002/food.20010450410,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Rice bean,Local,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,,10.1007/BF02196472,Vanillin-HCl,mg Catechin Eq/100g,Dry-weight,3,Measured result
+Rice bean,Local,Soaking,,12.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,22.0,20.0,15.0,,10.1007/BF02196472,Vanillin-HCl,mg Catechin Eq/100g,Dry-weight,3,Measured result
+Rice bean,Local,Germination,Soaked,12.0,48.0,28.0,Not applicable,Not applicable,0.0,Sprouted seed,58.0,40.0,38.0,,10.1007/BF02196472,Vanillin-HCl,mg Catechin Eq/100g,Dry-weight,3,Measured result
+Rice bean,Local,Cooking,Soaked,12.0,0.0,121.0,Not applicable,Autoclaving,15.0,Whole seed,78.0,60.0,95.0,,10.1007/BF02196472,Vanillin-HCl,mg Catechin Eq/100g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Soaking,,12.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,23.4,17.8,7.5,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Germination,Soaked,12.0,24.0,28.0,Not applicable,Not applicable,0.0,Sprouted seed,42.1,22.5,21.2,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Germination,Soaked,12.0,48.0,28.0,Not applicable,Not applicable,0.0,Sprouted seed,59.4,35.0,44.8,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Cooking,Unsoaked,0.0,0.0,100.0,Not applicable,Boiling,45.0,Whole seed,51.2,33.3,82.4,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Rice bean,RBL-1,Cooking,Soaked,12.0,0.0,121.0,Not applicable,Autoclaving,15.0,Whole seed,72.6,54.2,100.0,,10.1016/0308-8146(90)90135-Q,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Raw/control,,0.0,0.0,25.0,Not applicable,Not applicable,0.0,Whole seed,0.0,0.0,0.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Soaking,,12.0,0.0,27.0,Not applicable,Not applicable,0.0,Whole seed,35.0,15.0,51.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Germination,Soaked,12.0,8.0,27.0,Not applicable,Not applicable,0.0,Sprouted seed,38.0,20.0,60.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Germination,Soaked,12.0,16.0,27.0,Not applicable,Not applicable,0.0,Sprouted seed,40.0,25.0,70.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Germination,Soaked,12.0,24.0,27.0,Not applicable,Not applicable,0.0,Sprouted seed,43.0,30.0,78.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Germination,Soaked,12.0,32.0,27.0,Not applicable,Not applicable,0.0,Sprouted seed,46.0,36.0,83.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Local,Cooking,Soaked,12.0,0.0,100.0,Not applicable,Boiling,30.0,Whole seed,75.0,65.0,92.0,,10.1108/00346650810847963,Spectrophotometric,mg/g,Dry-weight,3,Measured result
+Lablab,Rongai,Raw/control,,0.0,0.0,25.0,Not applicable,Boiling,60.0,Whole seed,0.0,0.0,0.0,,10.51791/njap.v38i2.2795,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Lablab,Rongai,Cooking,,0.0,0.0,100.0,Not applicable,Boiling,15.0,Whole seed,22.7,25.0,35.0,,10.51791/njap.v38i2.2795,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Lablab,Rongai,Cooking,,0.0,0.0,100.0,Not applicable,Boiling,45.0,Whole seed,54.55,78.93,77.77,,10.51791/njap.v38i2.2795,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
+Lablab,Rongai,Cooking,,0.0,0.0,100.0,Not applicable,Boiling,60.0,Whole seed,68.2,82.0,88.0,,10.51791/njap.v38i2.2795,Spectrophotometric,mg/100g,Dry-weight,3,Measured result
